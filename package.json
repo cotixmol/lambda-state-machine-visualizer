@@ -1,0 +1,7 @@
+{
+    "name": "lambda-state-machine-visualizer",
+    "version": "1.0.0",
+    "main": "lambda.js",
+    "dependencies": {}
+  }
+  
